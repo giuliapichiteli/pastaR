@@ -5,3 +5,7 @@
 #alterações aqui
 100*100
 50+50
+# linhas modificados remotamente
+100 + 50 
+200 + 100
+200 + 500
